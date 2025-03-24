@@ -28,4 +28,5 @@ If you want to run the program directly using Python:
    pip install pyqt6
    python renomeador.py
 
-   ![File Renamer in Action](screenshot.png)
+## 🖥️ Image of the System  
+![File Renamer in Action](https://github.com/GustavoAlMota/file-renamer/blob/main/screenshot.png)
