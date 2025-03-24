@@ -27,3 +27,5 @@ If you want to run the program directly using Python:
    ```bash
    pip install pyqt6
    python renomeador.py
+
+   ![File Renamer in Action](screenshot.png)
